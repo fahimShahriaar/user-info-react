@@ -1,0 +1,14 @@
+.info-container{
+    display: flex;
+}
+.user-container{
+    width: 50%;
+    margin-left: 10%;
+    text-align: center;
+    border-right: 1px solid darkgray;
+}
+.cart-container{
+    width: 30%;
+    margin-left: 10px;
+    /* border: 1px solid darkgray; */
+}
